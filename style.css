@@ -1,0 +1,71 @@
+.full{
+  background-image: url(https://image.slidesdocs.com/responsive-images/docs/minimalist-business-brochure-cover-design-template-with-blue-technology-style-page-border-background-word-template_dee8ef666d__1131_1600.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 100px;
+  
+}
+
+.div1 h1{
+  font-size: 80px;
+  text-align: center;
+  color: rgb(0, 56, 132);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  
+}
+.div2{
+   
+
+}
+.div3 h2{
+   width:60% ;
+   float: right;
+
+}
+.ldimg{
+  width:75% ;
+  float: right;
+}
+
+  
+.div3{
+  display: inline-block;
+}
+.ul1{
+  margin-top: 15%;
+  width: 20%;
+  float: left;
+}
+.hotels{
+}
+.hotels h2{
+  font-size: 40px;
+  text-align: center;
+}
+.hotels{
+  display: inline-block;
+  border: solid;
+  margin-left: 200px;
+  border-radius: 10px;
+  
+}
+.exp{
+  display: inline-block;
+
+}
+
+.container{
+  text-align: center;
+}
+.image{
+  width: 500px;
+  height: 400px;
+  display: inline-block;
+  padding-left: 80px;
+}
+.video{
+  width: 600px;
+  height: 400px;
+  float: right;
+  padding-right: 80px; ;
+}
